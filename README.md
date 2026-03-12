@@ -1,23 +1,23 @@
 # Hi 👋 I'm Somya
-### I'm a passionate developer building real-world projects using modern technologies
+### A passionate developer building real-world projects with React, Django & Python
 
 🧠 **About Me**
-- 💻 Developer with experience in Python, C++, Web Dev
-- 🤖 Interested in AI, Open Source & Problem Solving
-- 🌱 Always learning and improving!
+- 💻 Full-stack developer with expertise in React (frontend) and Django (backend)  
+- 🤖 Interested in AI, Web Development & Open Source  
+- 🌱 Always learning and exploring new technologies
 
 ✨ **Top Skills**
-Python | C++ | HTML | CSS | JavaScript | Git
+Python | Django | React | JavaScript | HTML | CSS | Git
 
 📂 **Featured Projects**
-✔ [student-record-manager](https://github.com/devsomya28/student-record-manager)  
-A mini project in Python — CRUD app for student management.  
+✔ [React Task Manager](https://github.com/devsomya28/react-task-manager)  
+A dynamic task management app built with React, React Router, and localStorage. Features: add, edit, delete tasks with smooth UI.  
 
-✔ [hello-world-in-c-python](https://github.com/devsomya28/hello-world-in-c-python)  
-Simple Hello World project in C++ & Python.
+✔ [Django Blog Platform](https://github.com/devsomya28/django-blog-platform)  
+A fully functional blogging website built using Django. Features user authentication, CRUD operations for posts, and comment system.  
 
-✔ [airbnb-help-clone](https://github.com/devsomya28/airbnb-help-clone)  
-Front‑end clone using HTML & CSS.
+✔ [Airbnb Clone](https://github.com/devsomya28/airbnb-help-clone)  
+Front-end clone using HTML, CSS, and responsive design to mimic Airbnb layout.
 
 📫 **Connect with me**
 LinkedIn:https://www.linkedin.com/in/somya-devda-4190a5380/ 
