@@ -1,5 +1,5 @@
 # Hi 👋 I'm Somya
-### A passionate developer building real-world projects with React, Django & Python
+### A passionate developer building real-world projects with React,  Python
 
 🧠 **About Me**
 - 💻 Full-stack developer with expertise in React (frontend) and Django (backend)  
